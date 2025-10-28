@@ -1,0 +1,21 @@
+.weather {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    background: linear-gradient(135deg, rgb(230,230,255), rgb(190,190,220));
+    border-radius: 20px;
+    padding: 20px 0;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.prefectureSelector {
+    width: 80%;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    border-radius: 60;
+}
